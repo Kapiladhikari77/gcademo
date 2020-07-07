@@ -1,0 +1,84 @@
+ 1143  git init
+ 1233  git clone https://github.com/sundowndev/PhoneInfoga?fbclid=IwAR2VCxM5zy8BssSD1YjheGqF4qRyNmOU3FQrGH0TnGQDvhFwn1cYnySGk-U
+ 1484  git
+ 1486  sudo apt install git -y
+ 1489  git config --list global
+ 1490  git config --global --list 
+ 1492  git config --global user.name "kapil"
+ 1493  git config --global user.email "iamkapil77@gmail.com"
+ 1495  git config --global --list
+ 1502  git init 
+ 1506  git config --local --list
+ 1508  git status 
+ 1509  git add .
+ 1510  git status 
+ 1511  git status
+ 1512  git commit -m "Vagrant initial commit "
+ 1513  git status 
+ 1514  git log 
+ 1515  git push
+ 1517  git remote 
+ 1518  git remote add origin https://github.com/Kapiladhikari77/Vagrant-test
+ 1519  git push -u origin master 
+ 1520  git push 
+ 1521  git push --set-upstream origin master 
+ 1523  git push
+ 1524  git branch 
+ 1525  git branch learning
+ 1526  git push
+ 1527  git checkout 
+ 1532  git push origin learning
+ 1533  git push
+ 1534  git push --set-upstream origin master 
+ 1535  git push origin learning
+ 1536  git remote 
+ 1537  git remote add origin https://github.com/Kapiladhikari77
+ 1543  git remote 
+ 1544  git remote add origin https://github.com/Kapiladhikari77
+ 1545  git remote replace origin https://github.com/Kapiladhikari77
+ 1547  git config --global --list
+ 1548  git push
+ 1550  git checkout 
+ 1551  git merge learning
+ 1555  git status
+ 1556  git push
+ 1557  git branch -d learning 
+ 1567  git clone https://github.com/mkubecek/vmware-host-modules.git
+ 1571  git checkout workstation-15.5.1
+ 1925  git status 
+ 1930  mkdir gca/git
+ 1931  mkdir gca /git
+ 1937  cd git
+ 1938  mkdir git
+ 1939  cd git/
+ 1945  git -v
+ 1946  git --version 
+ 1948  git --version 
+ 1949  sudo apt update git
+ 1951  git--version
+ 1952  git --version
+ 1954  git config --global --list
+ 1960  mkdir github
+ 1962  cd github/
+ 1965  git config --global list
+ 1966  git config --global -list
+ 1967  git config --global --list
+ 1968  git config --global -l
+ 1974  git init
+ 1978  git add "Readme.txt"
+ 1979  git status
+ 1981  git status
+ 1982  git add .
+ 1983  git status
+ 1984  git commit -m "update 1"
+ 1985  git status
+ 1987  git fetch 
+ 1990  git remote add origin https://github.com/Kapiladhikari77/gcademo.git
+ 1991  git status
+ 1992  git remote add origin https://github.com/Kapiladhikari77/gcademo.git
+ 1993  git commit-m "first commit"
+ 1994  git commit -m "first commit"
+ 1995  git push -u origin master
+ 1997  git push -u origin master
+ 2000  history | grep git
+ 2001  history | grep git > gitcommands.txt
